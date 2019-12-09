@@ -150,3 +150,4 @@ For pull requests, editor preferences are available in the [editor config](.edit
 On modifie ce fichier conformément à ce qui est demandé dans l'énoncé
 
 
+on ajoute du contenu dans le terminal

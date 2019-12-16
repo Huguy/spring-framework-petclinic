@@ -44,7 +44,7 @@ public class BaseEntity {
         return this.id == null;
     }
     
-    function func1() {
+    public void func1() {
         let arr = ["a", "b", "c"];
 
         let expectedValue = "b";
@@ -55,7 +55,7 @@ public class BaseEntity {
         }
     }
 
-    function func2() {
+    public void func2() {
         let arr = ["a", "b", "c"];
 
         let expectedValue = "1"; // index #1 is corresponding to the value "b"
